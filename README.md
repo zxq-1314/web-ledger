@@ -82,9 +82,7 @@ web-ledger/
 
 ├── data.txt # 数据存储文件（自动生成）
 
-├── README.md # 项目说明文档
-
-└── .gitignore # Git 忽略文件（Python 缓存等）
+└── README.md # 项目说明文档
 
 
 
