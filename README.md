@@ -16,7 +16,7 @@
 
 📸 界面预览
 
-!\[首页截图](https://github.com/zxq-1314/web-ledger/blob/main/screenshot.png)
+!\[首页截图](https://raw.githubusercontent.com/zxq-1314/web-ledger/main/screenshot.png)
 
 
 
