@@ -96,7 +96,7 @@ web-ledger/
 
 
 
-1\. 确保已安装 Python 3.8+（\[下载地址](https://python.org)）
+1\. 确保已安装 Python 3.8+（\[下载地址](https://python.org)
 
 
 
