@@ -102,7 +102,6 @@ web-ledger/
 
 2. 安装 Flask 依赖（在终端执行）：
 
-&#x20;  ```bash
 
 &#x20;  pip install flask
 
