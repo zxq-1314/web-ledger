@@ -76,7 +76,7 @@
 
 
 
-web-ledger/
+web-ledger
 
 ├── web\_ledger.py # 主程序（包含所有路由和业务逻辑）
 
